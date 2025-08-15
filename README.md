@@ -18,7 +18,7 @@ It allows adding new users/passwords and decrypting stored passwords.
 
 **Clone the repository**
 ```bash
-   git clone https://github.com/FakeAlek/Password-Manager.git
+   git clone https://github.com/FakeAlek/password-manager.git
    cd Password-Manager
 ```
 
